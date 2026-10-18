@@ -30,7 +30,7 @@ Users can select a database through a menu and view, add, edit, and delete recor
 4. Run:
 
    ```bash
-   python demo.py
+   python assignment2.py
    ```
 
 The database files and sample data are created automatically when the program starts.
